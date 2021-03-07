@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31078081968",
+    "project_id": "timessheet",
+    "storage_bucket": "timessheet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31078081968:android:6ced9f7cdc1c8a06786275",
+        "android_client_info": {
+          "package_name": "com.example.timessheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31078081968-9nktg57amgld9ncbb01275mhsdorpe6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVQJ1XbJoIsscEI-wRYNC-onJCvvMbJ4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31078081968-9nktg57amgld9ncbb01275mhsdorpe6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
